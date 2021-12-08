@@ -2,6 +2,9 @@
 <h3 align="center">A passionate android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushigupta931&label=Profile%20views&color=0e75b6&style=flat" alt="ayushigupta931" /> </p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FF9595&size=20&lines=Good+to+see+you+here!;Welcome+to+my+profile" />
+</a>
 
 - 🌱 I’m currently learning **Android development, DSA and C++**
 
